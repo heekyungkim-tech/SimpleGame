@@ -1,3 +1,3 @@
 # SimpleGame
-This game is created with C#
+This game is created with C#. 
 Simple game to get the score by avoiding enemies.
