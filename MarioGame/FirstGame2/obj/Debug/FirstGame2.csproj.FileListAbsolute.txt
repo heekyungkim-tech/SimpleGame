@@ -1,0 +1,9 @@
+C:\Users\h.kim17\Desktop\FirstGame2\FirstGame2\bin\Debug\FirstGame2.exe.config
+C:\Users\h.kim17\Desktop\FirstGame2\FirstGame2\bin\Debug\FirstGame2.exe
+C:\Users\h.kim17\Desktop\FirstGame2\FirstGame2\bin\Debug\FirstGame2.pdb
+C:\Users\h.kim17\Desktop\FirstGame2\FirstGame2\obj\Debug\FirstGame2.csprojResolveAssemblyReference.cache
+C:\Users\h.kim17\Desktop\FirstGame2\FirstGame2\obj\Debug\FirstGame2.Form1.resources
+C:\Users\h.kim17\Desktop\FirstGame2\FirstGame2\obj\Debug\FirstGame2.Properties.Resources.resources
+C:\Users\h.kim17\Desktop\FirstGame2\FirstGame2\obj\Debug\FirstGame2.csproj.GenerateResource.Cache
+C:\Users\h.kim17\Desktop\FirstGame2\FirstGame2\obj\Debug\FirstGame2.exe
+C:\Users\h.kim17\Desktop\FirstGame2\FirstGame2\obj\Debug\FirstGame2.pdb
