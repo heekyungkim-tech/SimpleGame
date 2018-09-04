@@ -1,10 +1,10 @@
 # Simple Game
 
-#Mario Game
+#Mario Game: 
 This game is created with C#. 
 Simple game to get the score by avoiding enemies.
 
-#Penguin Game
+#Penguin Game: 
 This game is created with JavaScript
 Simple game to get the score by clicking moving penguins
 Link for the game:
